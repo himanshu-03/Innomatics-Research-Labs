@@ -8,10 +8,10 @@ Real Time Data Visualization of Covid-19 in India
 
 ## 👀 Screenshots
 
-<img src = "/assets/1.png">
-<img src = "/assets/2.png">
-<img src = "/assets/3.png">
-<img src = "/assets/4.png">
+<img src = "assets/1.png">
+<img src = "assets/2.png">
+<img src = "assets/3.png">
+<img src = "assets/4.png">
 <br>
 
 ## ✍️ Authors
